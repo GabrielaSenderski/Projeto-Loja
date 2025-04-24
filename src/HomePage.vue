@@ -49,7 +49,14 @@
                     <span class="fa-solid fa-star" style="color: #241f31;"></span>
                     <p>Livros recomendados</p>
                 </li>
+                <li>
+                    <span class="fa-solid fa-book-open" style="color: #241f31;"></span>
+                    <p>Mais vendidos</p>
+                </li>
             </ul>
+        </section>
+        <section class="lançamentos">
+
         </section>
     </main>
     </body>
